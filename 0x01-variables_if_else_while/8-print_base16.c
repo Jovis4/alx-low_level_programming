@@ -1,5 +1,4 @@
 vi 8-print_base16.c
-i
 #include <stdio.h>
 
 /**
